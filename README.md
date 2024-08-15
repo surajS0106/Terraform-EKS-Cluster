@@ -33,3 +33,6 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 Share your journey with your network and tag me, [Aman Pathak](https://www.linkedin.com/in/aman-devops), when you post your blogs on LinkedIn. Let's learn together!
 
 Happy learning and blogging! 🌟
+
+
+Note : I have cloned this repo from Aman Pathak as he has publicly shared this project and using it for my personal project. A huge shoutout to him for making this and all credits go to him!
